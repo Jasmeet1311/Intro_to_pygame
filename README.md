@@ -9,3 +9,4 @@ Game using pygame file contains
 4.Setting caption
 5.Game specific variables
 6.Game loop and event handling
+7.Giving velocity to the snake

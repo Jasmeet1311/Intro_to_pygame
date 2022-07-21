@@ -2,6 +2,7 @@
 Contains a brief description about pygame module of python and how to use pygame for game development
 
 Game using pygame file contains
+We will be taking example of snake game and make this project to understand working of pygame module
 
 1.Importing pygame
 2.Initializing all module of pygame
@@ -10,3 +11,4 @@ Game using pygame file contains
 5.Game specific variables
 6.Game loop and event handling
 7.Giving velocity to the snake
+randomly plot food

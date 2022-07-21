@@ -11,4 +11,6 @@ We will be taking example of snake game and make this project to understand work
 5.Game specific variables
 6.Game loop and event handling
 7.Giving velocity to the snake
-randomly plot food
+8.randomly plot food
+9.Displaying score board on screen
+10.Increasing the length of the snake

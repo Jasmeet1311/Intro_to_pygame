@@ -14,3 +14,4 @@ We will be taking example of snake game and make this project to understand work
 8.randomly plot food
 9.Displaying score board on screen
 10.Increasing the length of the snake
+11.Handling game over condition, collision will wall and with snake itself
